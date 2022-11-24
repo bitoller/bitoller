@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bianca, known as Fay on the internet
-- 👀 I’m interested in Video Games (lots of video games), Board games and Anime
+- 👀 I’m interested in Video Games (lots of video games), Board Games and Anime
 - 🌱 I’m currently learning how to become a Fullstack Developer from zero
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/bianca-toller/) 
 
