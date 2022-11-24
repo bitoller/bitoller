@@ -5,8 +5,12 @@
 
 <hr />
 
-[![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitoller&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/bitoller/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&langs_count=8&layout=compact)](https://github.com/bitoller/github-readme-stats)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&count_private=true&theme=midnight-purple" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&theme=midnight-purple&langs_count=8&count_private=true&layout=compact" /></div>
+</div>
 
 <!---
 bitoller/bitoller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
