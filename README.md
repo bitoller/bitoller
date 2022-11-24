@@ -5,7 +5,7 @@
 
 <hr />
 
-[![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitoller&count_private=true&show_icons=true)](https://github.com/bitoller/github-readme-stats)
+[![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitoller&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/bitoller/github-readme-stats)
 
 
 <!---
