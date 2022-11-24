@@ -4,8 +4,8 @@
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/bianca-toller/) 
 <hr />
 
-<img align="left" height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&layout=compact&langs_count=7&theme=dracula"/>
+<img align="left" height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&layout=compact&langs_count=7&theme=dracula"/>
 
 <!---
 bitoller/bitoller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
