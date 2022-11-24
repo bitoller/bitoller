@@ -6,7 +6,7 @@
 <hr />
 
 [![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitoller&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/bitoller/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller)](https://github.com/bitoller/github-readme-stats)
 
 <!---
 bitoller/bitoller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
