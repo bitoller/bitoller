@@ -2,7 +2,8 @@
 - :heart_decoration: I’m interested in Video Games, Board Games and Anime
 - :woman_technologist: I’m currently studying to be a Full Stack Developer
 - :envelope_with_arrow: You can connect with me on [LinkedIn](https://www.linkedin.com/in/bianca-toller/)
-- :sparkles: I highly recommend you to check out my [Bootcamp Repository](https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M1) to follow my journey from `No Stack` to `Full Stack Developer`. I update this repository on a regular basis so you'll always know what I'm currently learning.
+- :sparkles: I highly recommend you to check out my Bootcamp Repositories to follow my journey from `No Stack` to `Full Stack Developer`. I update these repositories on a regular basis so you'll always know what I'm currently learning and working on.
+- [Bootcamp Repository M1](https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M1) | [Bootcamp Repository M2](https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M2)
 
 <hr />
 
