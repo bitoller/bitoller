@@ -7,7 +7,7 @@
 :sparkles: I highly recommend you to check out my Bootcamp Repositories to follow my journey from `No Stack` to `Full Stack Developer`.<br>
 I update these repositories on a regular basis so you'll always know what I'm currently learning and working on.<br>
 
-<a href="https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M1"> ![Repo](https://img.shields.io/badge/M1_Repository-000?style=for-the-badge&color=7f3ace) </a> <a href="https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M2"> ![Repo](https://img.shields.io/badge/M2_Repository-000?style=for-the-badge&color=7f3ace) </a>
+<a href="https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M1" target="blank"> ![Repo](https://img.shields.io/badge/M1_Repository-000?style=for-the-badge&color=7f3ace) </a> <a href="https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M2" target="blank"> ![Repo](https://img.shields.io/badge/M2_Repository-000?style=for-the-badge&color=7f3ace) </a>
 
 <hr />
 
