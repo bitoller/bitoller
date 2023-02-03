@@ -30,6 +30,8 @@
 
 <hr />
 
+![snake gif](https://github.com/bitoller/bitoller/blob/output/github-contribution-grid-snake.svg)
+
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&count_private=true&theme=midnight-purple" />
 &nbsp;
