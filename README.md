@@ -41,3 +41,4 @@ I update these repositories on a regular basis so you'll always know what I'm cu
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer"/>
+<p align="center">Copyright © 2023 bitoller</p>
