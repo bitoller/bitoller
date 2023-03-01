@@ -6,6 +6,9 @@
 :woman_technologist: I’m currently studying to be a Full Stack Developer.<br />
 :sparkles: I highly recommend you to check out my Bootcamp Repositories to follow my journey from `No Stack` to `Full Stack Developer`.<br />
 I update these repositories on a regular basis so you'll always know what I'm currently learning and working on.<br />
+<br />
+<img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250" height="250"/><br />
+<br />
 
 <a href="https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M1" target="_blank"> ![Repo](https://img.shields.io/badge/M1_Repository-000?style=for-the-badge&color=7f3ace) </a> <a href="https://github.com/bitoller/BOOTCAMP-PROJECTS-AND-ACTIVITIES-M2" target="_blank"> ![Repo](https://img.shields.io/badge/M2_Repository-000?style=for-the-badge&color=7f3ace) </a> <br />
 
