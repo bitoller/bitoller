@@ -10,7 +10,7 @@ I update these repositories on a regular basis so you'll always know what I'm cu
 <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250" height="250"/><br />
 <br />
 
-<a href="https://github.com/bitoller/bootcamp-projects-and-activities-m1" target="_blank"> ![Repo](https://img.shields.io/badge/M1_Repository-000?style=for-the-badge&color=7f3ace) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m2" target="_blank"> ![Repo](https://img.shields.io/badge/M2_Repository-000?style=for-the-badge&color=7f3ace) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m3" target="_blank"> ![Repo](https://img.shields.io/badge/M3_Repository-000?style=for-the-badge&color=7f3ace) </a> <br />
+<a href="https://github.com/bitoller/bootcamp-projects-and-activities-m1" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M1.png) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m2" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M2.png) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m3" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M3.png) </a> <br />
 
 <hr />
 
@@ -19,6 +19,7 @@ I update these repositories on a regular basis so you'll always know what I'm cu
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCODE" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" width="40" height="40"/>
