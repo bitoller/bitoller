@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=9645F4&width=600&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
 
 :wave: Hi, I’m Bianca.<br>
-:woman_technologist: I’m currently studying to be a Full Stack Developer.<br />
+:woman_technologist: I’m currently studying to be a Software Engineer.<br />
 :sparkles: I highly recommend you to check out my Bootcamp Repositories to follow my journey from `No Stack` to `Full Stack Developer`.<br />
 I update these repositories on a regular basis so you'll always know what I'm currently learning and working on.<br />
 <br />
