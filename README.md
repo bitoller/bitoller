@@ -5,17 +5,14 @@
 :wave: Hi, I’m Bianca.<br>
 :woman_technologist: I’m currently studying to be a Software Engineer.<br />
 :sparkles: I highly recommend you to check out my Bootcamp Repositories to follow my journey from `No Stack` to `Full Stack Developer`.<br />
-I update these repositories on a regular basis so you'll always know what I'm currently learning and working on.<br />
 <br />
 <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250" height="250"/><br />
 <br />
 
-<a href="https://github.com/bitoller/bootcamp-projects-and-activities-m1" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M1.png) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m2" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M2.png) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m3" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M3.png) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m4" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M4.png) </a> <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m5" target="_blank"> ![Repo](https://github.com/bitoller/bootcamp-projects-and-activities-m3/blob/main/src/assets/M5.png) </a> <br />
-
 <hr />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=9645F4&width=600&lines=Languages+and+Tools)](https://git.io/typing-svg)
-<p align="left"> 
+<div align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
@@ -29,14 +26,14 @@ I update these repositories on a regular basis so you'll always know what I'm cu
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="FIGMA" width="40" height="40"/>
-</p>
+</div>
 
 <hr />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=9645F4&width=600&lines=Connect+With+Me)](https://git.io/typing-svg)
-<p align="left">
+<div align="left">
 <a href="https://www.linkedin.com/in/bianca-toller/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="40" width="40" /></a>
-</p>
+</div>
 
 <hr />
 
