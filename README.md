@@ -4,7 +4,7 @@
 
 :wave: Hi, I’m Bianca.<br>
 :woman_technologist: I’m currently studying to be a Software Engineer.<br />
-:sparkles: I highly recommend you to check out my Bootcamp Repositories to follow my journey from `No Stack` to `Full Stack Developer`.<br />
+:sparkles: I highly recommend you to check out my Bootcamp & University Repositories to follow my journey from `No Stack` to `Full Stack Developer` / `Software Engineer`.<br />
 <br />
 <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250" height="250"/><br />
 <br />
