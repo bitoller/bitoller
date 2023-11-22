@@ -30,13 +30,6 @@
 
 <hr />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=9645F4&width=600&lines=Connect+With+Me)](https://git.io/typing-svg)
-<div align="left">
-<a href="https://www.linkedin.com/in/bianca-toller/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="40" width="40" /></a>
-</div>
-
-<hr />
-
 ![snake gif](https://github.com/bitoller/bitoller/blob/output/github-contribution-grid-snake.svg)
 
 <div class='container'>
