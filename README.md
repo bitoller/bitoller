@@ -18,10 +18,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="PYTHON" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="ANGULAR" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NODEJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="POSTGRESQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="DOCKER" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCODE" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="40" height="40"/>
