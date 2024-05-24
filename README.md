@@ -15,16 +15,18 @@
 <div align="left"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TYPESCRIPT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="PYTHON" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="ANGULAR" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NODEJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="DOTNET" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="POSTGRESQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="DOCKER" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCODE" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VISUAL STUDIO CODE" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="VISUAL STUDIO" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GITHUB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="FIGMA" width="40" height="40"/>
