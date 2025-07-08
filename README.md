@@ -14,7 +14,7 @@
 - 💼 Graduate Software Developer @ **Thoughtworks**  
 - 🎓 Studying Software Engineering (B.Sc.)  
 - 🐾 Dog mom to **Eren** 🐕 
-- ✨ Lover of cute aesthetics, tech, and pink-themed dashboards
+- ✨ Lover of cute aesthetics, tech, and geek stuff
 
 ---
 
