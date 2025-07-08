@@ -80,3 +80,5 @@
   <a href="https://www.linkedin.com/in/bianca-toller/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23DA70D6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bianca.toller@thoughtworks.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center">Made with ♥ by bitoller</p>
