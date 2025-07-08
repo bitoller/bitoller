@@ -40,7 +40,7 @@
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&count_private=true&theme=midnight-purple" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-bitollers-projects.vercel.app/api/top-langs/?username=bitoller&theme=midnight-purple&langs_count=10&layout=compact&hide=HTML,CSS,SCSS" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&theme=midnight-purple&langs_count=10&layout=compact&hide=HTML,CSS,SCSS" /></div>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f3ace&height=120&section=footer"/>
