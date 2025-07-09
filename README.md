@@ -13,8 +13,6 @@
 
 ### 💫 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Girls/girl-study-cute.gif" width="200" />
-
 - 🧠 Passionate about solving real-world problems through code  
 - 💼 Graduate Software Developer @ **Thoughtworks**  
 - 🎓 Studying Software Engineering (B.Sc.)  
