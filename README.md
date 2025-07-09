@@ -4,6 +4,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="50%" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bianca-toller/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23DA70D6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bianca.toller@thoughtworks.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 💫 About Me
@@ -73,12 +78,5 @@
 - 📚 Reading Head First - Design Patterns
 
 ---
-
-### 📫 Find Me At
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bianca-toller/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23DA70D6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bianca.toller@thoughtworks.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 <p align="center">Made with ♥ by bitoller</p>
