@@ -19,7 +19,12 @@
 - 💼 Graduate Software Developer @ **Thoughtworks**  
 - 🎓 Studying Software Engineering (B.Sc.)  
 - 🐾 Dog mom to **Eren** 🐕 
-- ✨ Lover of cute aesthetics, tech, and geek stuff
+- ✨ Lover of cute aesthetics, tech, and geek stuff<br/><br/>
+
+### 📌 Currently Working On
+
+- 📚 Studying for Azure Fundamentals (AZ-900)
+- 📚 Reading Head First - Design Patterns
 
 ---
 
@@ -70,13 +75,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&theme=tokyonight&layout=compact&langs_count=10&hide=HTML,CSS,SCSS&title_color=ffb6c1&text_color=fceaff&icon_color=ffb6c1&card_width=450" width="48%" />
 </p>
 
----
+<br/>
+<br/>
 
-### 📌 Currently Working On
-
-- 📚 Studying for Azure Fundamentals (AZ-900)
-- 📚 Reading Head First - Design Patterns
-
----
-
-<p align="center">Made with ♥ by bitoller</p>
+<p align="center">Made with ❤️ by bitoller</p>
