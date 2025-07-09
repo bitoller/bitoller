@@ -70,11 +70,10 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: inline-block;" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&theme=tokyonight&icon_color=ffb6c1&title_color=ffb6c1&text_color=fceaff" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&theme=tokyonight&layout=compact&langs_count=10&hide=HTML,CSS,SCSS&title_color=ffb6c1&text_color=fceaff&icon_color=ffb6c1&card_width=450" />
+<div style="display: inline_block" align = "center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&theme=tokyonight&icon_color=ffb6c1&title_color=ffb6c1&text_color=fceaff&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&theme=tokyonight&layout=compact&langs_count=168&title_color=ffb6c1&text_color=fceaff&icon_color=ffb6c1&card_width=450" />
 </div>
-
 
 <br/>
 <br/>
