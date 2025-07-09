@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <span style="color:#ffb6c1;">Bianca</span> 🌸</h1>
-<h3 align="center">✨ Junior Developer · Software Engineering Student · Tech + Puppy Lover ✨</h3>
+<h3 align="center">✨ Junior Developer · Software Engineering Student · Empowering Women in Tech ✨</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="50%" />
 </p>
@@ -19,7 +19,7 @@
 - 💼 Graduate Software Developer @ **Thoughtworks**  
 - 🎓 Studying Software Engineering (B.Sc.)  
 - 🐾 Dog mom to **Eren** 🐕 
-- ✨ Lover of cute aesthetics, tech, and geek stuff<br/><br/>
+- ✨ Lover of cute aesthetics, tech and geek stuff<br/><br/>
 
 ### 📌 Currently Working On
 
