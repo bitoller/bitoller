@@ -23,6 +23,7 @@
 
 - 📚 Studying for Azure Fundamentals (AZ-900)
 - 📚 Reading Head First - Design Patterns
+- 📚 Learning iOS Development
 
 ---
 
