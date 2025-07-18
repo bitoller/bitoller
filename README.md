@@ -71,7 +71,7 @@
 
 <div style="display: inline_block" align = "center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&theme=tokyonight&icon_color=ffb6c1&title_color=ffb6c1&text_color=fceaff&cache_bust=1&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitoller&theme=tokyonight&layout=compact&langs_count=168&title_color=ffb6c1&text_color=fceaff&cache_bust=1&icon_color=ffb6c1&card_width=450" />
+  <img height="165em" src="https://github-readme-stats-eta-olive-47.vercel.app/api/top-langs/?username=bitoller&theme=tokyonight&layout=compact&langs_count=20&title_color=ffb6c1&text_color=fceaff&cache_bust=1&exclude_repo=challenge-skysampa&icon_color=ffb6c1&card_width=450" />
 </div>
 
 <br/>
