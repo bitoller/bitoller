@@ -21,9 +21,9 @@
 
 ### 📌 Currently Working On
 
-- 📚 Studying for Azure Fundamentals (AZ-900)
-- 📚 Reading Head First - Design Patterns
+- 📚 Reading Head First - Design Patterns & The Object-Oriented Thought Process
 - 📚 Learning iOS Development
+- 📚 Trying to make Valve notice me ~~senpai~~
 
 ---
 
