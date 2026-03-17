@@ -23,7 +23,7 @@
 
 - 📚 Reading Head First - Design Patterns & The Object-Oriented Thought Process
 - 📚 Learning iOS Development
-- 📚 Trying to make Valve notice me ~~senpai~~
+- 📚 Building things that might make Valve notice me ~~senpai~~
 
 ---
 
