@@ -70,7 +70,7 @@
 ### 📊 GitHub Stats
 
 <div style="display: inline_block" align = "center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bitoller&show_icons=true&theme=tokyonight&icon_color=ffb6c1&title_color=ffb6c1&text_color=fceaff&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-eta-olive-47.vercel.app/api?username=bitoller&show_icons=true&theme=tokyonight&cache_seconds=86400&icon_color=ffb6c1&title_color=ffb6c1&text_color=fceaff&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats-eta-olive-47.vercel.app/api/top-langs/?username=bitoller&theme=tokyonight&cache_seconds=86400&layout=compact&langs_count=20&title_color=ffb6c1&text_color=fceaff&exclude_repo=challenge-skysampa&icon_color=ffb6c1&card_width=450" />
 </div>
 
