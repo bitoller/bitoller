@@ -14,7 +14,7 @@
 ### 💫 About Me
 
 - 🧠 Passionate about solving real-world problems through code
-- 💼 GSoftware Developer @ **KIS Solutions**
+- 💼 Software Developer @ **KIS Solutions**
 - 🎓 Studying Software Engineering (B.Sc.)
 - 🐾 Dog mom to **Eren** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxldG5wZDdwOGxvd3c1anB0cnNpMnVpaXE3NDF6bGRvMTBzcDQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnsbzAybylCs8/giphy.gif" width="20px" />
 - ✨ Lover of cute aesthetics, tech and geek stuff<br/><br/>
