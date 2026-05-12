@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <span style="color:#ffb6c1;">Bianca</span> 🌸</h1>
-<h3 align="center">✨ Junior Developer · Software Engineering Student · Empowering Women in Tech ✨</h3>
+<h3 align="center">✨ Software Developer · Software Engineering Student · Empowering Women in Tech ✨</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="50%" />
 </p>
@@ -14,7 +14,7 @@
 ### 💫 About Me
 
 - 🧠 Passionate about solving real-world problems through code
-- 💼 Graduate Software Developer @ **Thoughtworks**
+- 💼 GSoftware Developer @ **KIS Solutions**
 - 🎓 Studying Software Engineering (B.Sc.)
 - 🐾 Dog mom to **Eren** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxldG5wZDdwOGxvd3c1anB0cnNpMnVpaXE3NDF6bGRvMTBzcDQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnsbzAybylCs8/giphy.gif" width="20px" />
 - ✨ Lover of cute aesthetics, tech and geek stuff<br/><br/>
