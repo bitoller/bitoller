@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#ffb6c1;">Bianca</span> 🌸</h1>
 <h3 align="center">✨ Software Developer · Software Engineering Student · Empowering Women in Tech ✨</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="50%" />
+  <img src="./assets/cozy-pixel-room-coding.png" width="50%" />
 </p>
 
 <p align="center">
